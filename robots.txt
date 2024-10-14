@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dicerizezipa.pages.dev/sitemap.xml
